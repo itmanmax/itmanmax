@@ -3,7 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmanmax&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
 </p>
  
-![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers)
+![skills](https://skillicons.dev/icons?perline=14&i=bash,docker,git,github,githubactions,html,java,js,linux,md,mysql,nginx,nodejs,py,sqlite,twitter,ts,vercel,vscode,vue,workers)
 
 
-[![](https://raw.githubusercontent.com/xiaozhou26/itmanmax/main/out/ocean.gif)](https://github.com/itmanmax)
